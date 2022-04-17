@@ -1,4 +1,7 @@
-🔐Iniciando os estudos com Java - Estrutura de dados
+### My name is Guilherme!
+### 👋 Hello! Welcome to my Github profile https://github.com/guilhermealvino/guilhermealvino 👋
+
+🔐Learning a little more with Data Structure - More material about structures in Java coming soon
 
 
 <p align="center">
@@ -6,13 +9,13 @@
 </p>
 
 
-## Requisitos
+## Requirements
 
 - [SDK Java 8] (https://www.oracle.com/java/technologies/downloads/#java8)
 - [IntelliJ Community] (https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
@@ -23,15 +26,15 @@
 </br>
 <div display="inline-block">
 
- <p align="left">📚 Tenho estudado bastante Java e agora estou partindo para aprender mais sobre estrutura de dados;</p>
- <p align="left">☕🎮 Só acordo com MUITO café, aprendendo a gostar de games (mas sou muito ruim em todos).</p>
+ <p align="left">📚 I have a lot of Java study and now I'm participating to learn more about data structure</p>
+ <p align="left">☕🎮 I only wake up with LOTS of coffee, learning to like games (but I'm really bad at all of them).</p>
 </div>
 
 
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/guialvino) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 You can talk to me through [Instagram](https://www.instagram.com/guialvino) (I'm slow to respond sometimes but I'm cool, I swear 🙃) and you can see my already developed projects, which are available here in the repositories. =)
 
 
 ##
